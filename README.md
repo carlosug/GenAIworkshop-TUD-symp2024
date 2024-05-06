@@ -1,9 +1,10 @@
 # GenAIworksop-TUD-symp2024
  Workshop on "Exploration of AI tools for research software" at [Spring Symposium - AI Education](https://www.tudelft.nl/evenementen/2024/delft-ai/spring-symposium-ai-education) hosted by [TU Delft | Initiative](https://www.tudelft.nl/evenementen/2024/delft-ai/spring-symposium-ai-education)
-**When** 04 June 2024
-**Where** Delft University of Technology, at MondAI
-**Who, the instructors** Carlos, Halford, Fardad
-**Who, the helpers**
+ 
+- **When**: 04 June 2024
+- **Where**: Delft University of Technology, at MondAI
+- **Who, the instructors**: Carlos, Halford, Fardad
+- **Who, the helpers**:
 
 
 ## 1. Workshop description
