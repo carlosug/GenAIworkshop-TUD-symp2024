@@ -89,5 +89,5 @@ see the following [Section 2](#2-lesson-notes) for the actual coverage.
 
 ---
 ### Setup
-* For this repo
+* Fork this repo
 * Enable Github Copilot
